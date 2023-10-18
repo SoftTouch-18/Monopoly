@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table tr td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgba(82, 82, 89, 0.142);
+    font-size: 6px;
+    font-weight: bold;
+    justify-content: center;
+}
+p{
+    position: absolute;
+}
+table{
+    position: relative;
+    top: 30px;
+    margin: auto;
+    border-collapse: collapse;
+    height:600px;
+    width: 600px;
+}
+.freeparking{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/free\ parking.png);
+}
+.gotojail{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/go\ to\ jail.jpg);
+}
+.luxurytax{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/luxury\ tax.jpg);
+}
+.orangequemark{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/question-mark.jpg);
+}
+.bluequemark{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/chance.jpg);
+}
+.orangequemarkg{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/question-mark\ g.png);
+}
+.train{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/reading-railroad.jpg);
+}
+.train2{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/reading-railroa2.jpg);
+}
+.train3{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/reading-railroa1.jpg);
+}
+.train4{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/reading-railroa4.jpg);
+}
+.jail{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/jail.jpg);
+}
+.go{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/go.jpg);
+}
+.treasure{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/treasure.png);
+}
+.treasure2{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/treasure2.png);
+}
+.treasure3{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/treasure3.png);
+}
+.tap{
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Multimedia/tap.jpg);
+}
+.bimg{
+    width: 300px;
+    margin-left: 50px;
+    transform: rotate(-30deg);
+}
+.bsub{
+    transform: rotate(-20deg);
+    position: absolute;
+    left: 130px;
+    width: 150px;
+}
